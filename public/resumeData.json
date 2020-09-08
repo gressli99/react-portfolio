@@ -1,21 +1,22 @@
 {
   "main": {
-    "name": "Sonny Sangha",
+    "name": "Adi Santoso",
     "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "My name is Adi, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "gress_99@yahoo.com",
+    "phone": "+62 8776 116 8869",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "36 Juanda Street",
+      "city": "Jajag - Gambiran",
+      "state": "Banyuwangi - East Java",
+      "country": "Indonesia"
+      "zip": "68486"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "NA",
+    "resumedownload": "NA",
     "social": [
       {
         "name": "facebook",
@@ -34,8 +35,8 @@
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
-        "className": "fa fa-github"
+        "url": "http://github.com/gressli99",
+        "className": "NA"
       }
     ]
   },
@@ -75,10 +76,6 @@
       {
         "name": "Git",
         "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
       },
       {
         "name": "HTML5",
